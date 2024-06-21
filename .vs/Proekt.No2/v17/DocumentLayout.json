@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Siana\\SoftwareAcademy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFAEE94-B316-48CA-96BD-B0757A592C13}|Proekt.No2\\Proekt.No2.csproj|c:\\users\\lenovo\\desktop\\siana\\softwareacademy\\proekt.no2\\academy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFAEE94-B316-48CA-96BD-B0757A592C13}|Proekt.No2\\Proekt.No2.csproj|solutionrelative:proekt.no2\\academy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFAEE94-B316-48CA-96BD-B0757A592C13}|Proekt.No2\\Proekt.No2.csproj|c:\\users\\lenovo\\desktop\\siana\\softwareacademy\\proekt.no2\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFAEE94-B316-48CA-96BD-B0757A592C13}|Proekt.No2\\Proekt.No2.csproj|solutionrelative:proekt.no2\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFAEE94-B316-48CA-96BD-B0757A592C13}|Proekt.No2\\Proekt.No2.csproj|c:\\users\\lenovo\\desktop\\siana\\softwareacademy\\proekt.no2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFAEE94-B316-48CA-96BD-B0757A592C13}|Proekt.No2\\Proekt.No2.csproj|solutionrelative:proekt.no2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFAEE94-B316-48CA-96BD-B0757A592C13}|Proekt.No2\\Proekt.No2.csproj|c:\\users\\lenovo\\desktop\\siana\\softwareacademy\\proekt.no2\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFAEE94-B316-48CA-96BD-B0757A592C13}|Proekt.No2\\Proekt.No2.csproj|solutionrelative:proekt.no2\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Academy.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SoftwareAcademy\\Proekt.No2\\Academy.cs",
+              "RelativeDocumentMoniker": "Proekt.No2\\Academy.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SoftwareAcademy\\Proekt.No2\\Academy.cs",
+              "RelativeToolTip": "Proekt.No2\\Academy.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwFAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:33:10.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SoftwareAcademy\\Proekt.No2\\Course.cs",
+              "RelativeDocumentMoniker": "Proekt.No2\\Course.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SoftwareAcademy\\Proekt.No2\\Course.cs",
+              "RelativeToolTip": "Proekt.No2\\Course.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:32:07.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SoftwareAcademy\\Proekt.No2\\Students.cs",
+              "RelativeDocumentMoniker": "Proekt.No2\\Students.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SoftwareAcademy\\Proekt.No2\\Students.cs",
+              "RelativeToolTip": "Proekt.No2\\Students.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwBIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:31:26.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SoftwareAcademy\\Proekt.No2\\Program.cs",
+              "RelativeDocumentMoniker": "Proekt.No2\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SoftwareAcademy\\Proekt.No2\\Program.cs",
+              "RelativeToolTip": "Proekt.No2\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:30:18.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

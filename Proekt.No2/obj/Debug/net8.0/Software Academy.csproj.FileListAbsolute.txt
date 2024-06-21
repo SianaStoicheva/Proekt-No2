@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\obj\Debug\net8.0\Software Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\obj\Debug\net8.0\Software Academy.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\obj\Debug\net8.0\Software Academy.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\obj\Debug\net8.0\Software Academy.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\bin\Debug\net8.0\Software Academy.exe
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\bin\Debug\net8.0\Software Academy.deps.json
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\bin\Debug\net8.0\Software Academy.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\bin\Debug\net8.0\Software Academy.dll
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\bin\Debug\net8.0\Software Academy.pdb
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\obj\Debug\net8.0\Software Academy.dll
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\obj\Debug\net8.0\refint\Software Academy.dll
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\obj\Debug\net8.0\Software Academy.pdb
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\obj\Debug\net8.0\Software Academy.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\SoftwareAcademy\Proekt.No2\obj\Debug\net8.0\ref\Software Academy.dll
